@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Products.fs" />
+    <Compile Include="ManualPurchaseOrder.fs" />
+    <Compile Include="ValidationOrderLine.fs" />
+    <Compile Include="Library.fs" />
+  </ItemGroup>
+
+</Project>
